@@ -1,3 +1,11 @@
-# test npm package
+# How to start example page?
 
-#RouterTOArray
+Then in the example directory, run all dependencies:
+
+### `npm install`
+
+Then use the command:
+
+### `npm run start`
+
+Open [http://localhost:1234](http://localhost:1234) to view it in the browser.
