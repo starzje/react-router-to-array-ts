@@ -13,13 +13,13 @@ Example code on the bottom of the README page -> [preview link](https://react-ro
 Use package manager to install react-router-to-array-ts.
 
 ```bash
-npm install react-router-to-array-ts
+npm install --save-dev react-router-to-array-ts
 ```
 
 or
 
 ```bash
-yarn add react-router-to-array-ts
+yarn add -D react-router-to-array-ts
 ```
 
 ## Usage
@@ -43,7 +43,7 @@ Be sure to add custom property handle in your routes, where you can add title an
 handle{{ title: "Title goes here", category: "category goes here" }}
 ```
 
-Also don't add any slahes "/" to your paths at beginning or at the end, react-router-to-array-ts will do that for you
+Also don't add any slashes "/" to your paths at beginning or at the end, react-router-to-array-ts will do that for you
 
 ```javascript
 path = 'user/userid'
