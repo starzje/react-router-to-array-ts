@@ -7,7 +7,7 @@
   "types": "./dist/esm/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/starzje/react-router-to-array-ts
+    "url": "git+https://github.com/starzje/react-router-to-array-ts.git"
   },
   "scripts": {
     "build": "npm run build:esm && npm run build:cjs",
