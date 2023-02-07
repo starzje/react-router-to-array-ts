@@ -1,5 +1,7 @@
 # React Router To Array Typescript
 
+### [npm package](https://www.npmjs.com/package/react-router-to-array-ts)
+
 A library that helps you get helpful information from react-routers <Route> by extracting paths (and other custom properties) to an array, which can be helpful if you are creating SSG/blogs, and need to list out all of your routes somewhere (and add properties like category, title, etc.)
 
 ## Live preview of example
