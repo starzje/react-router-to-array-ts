@@ -1,6 +1,6 @@
 {
   "name": "react-router-to-array-ts",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Converts react-router routes to array of routes, adds ability to add other properties to returned array",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
